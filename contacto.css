@@ -1,0 +1,58 @@
+
+.contacto_contenedor{
+    display: flex;
+    height: 788px;
+    background-color: #EAF2FD;
+    width: 100%;
+    justify-content: center;
+}
+
+.contacto_imagen{
+    height: 593px;
+    width: 464px;
+    margin-top: 130px;
+}
+
+.contenedor_formulario{
+    width: 500px;
+    margin-left: 32px;
+    margin-top: 130px;
+}
+
+
+.contacto_texto h3{
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: -5px;
+}
+
+.contacto_texto p{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.contacto_formulario input{
+    width:500px ;
+    height: 36px;
+    margin-bottom: 16px;
+    border: none;
+}
+
+
+
+.contacto_formulario textarea{
+    width: 500px;
+    resize: none;
+    border: none;
+}
+
+.boton_enviar{
+    height: 50px;
+    margin-top: 26px;
+    border: none;
+    font-family: Raleway;
+    color: white;
+    background-color: #2A7AE4;
+}

@@ -1,0 +1,43 @@
+.caja_academia{
+    background-color: #EAF2FD;
+    margin-top: 88px;
+    height: 581px; 
+}
+
+.formacion_academica{
+    display: flex;
+    
+}
+
+.formacion_academica__titulo{
+    font-size: 32px;
+    font-family: Raleway;
+    text-align: center;
+    padding-bottom: 32px;
+    padding-top: 88px;
+}
+
+.formacion_academica__contenedor{
+    width: 368px;
+    height: 186px;
+    margin-left: 152px;
+    padding-top: 50px;
+    background: #ffffff;
+    margin-right: 100px;
+}
+
+
+.formacion_academica__imagen{
+    width: 192px;
+    height: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.formacion_academica__texto{
+    font-family: Raleway;
+    color: #464646;
+    margin-left: 152px;
+}

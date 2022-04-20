@@ -1,0 +1,21 @@
+.sobre{
+    font-family: Raleway;
+    margin-top: 95px;
+    width: 100%;
+    color: #464646;
+    background: #EAF2FD;
+}
+
+.sobre h3{
+    font-size: 32px;
+    width: 750px;
+    margin-left:170px ;
+    padding-top: 64px;
+}
+
+.sobre p{
+    font-size: 16px;
+    width: 750px;
+    margin-left: 170px;
+    padding-bottom: 64px;
+}

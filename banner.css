@@ -1,0 +1,48 @@
+.caja__contenido{
+    display: flex;
+    margin: 30px 150px;
+    padding: 10px;
+}
+
+.caja__contenido h2{
+    font-family: Raleway;
+    font-size: 52px;
+    color: #464646;
+}
+
+.caja__contenido p{
+    font-family: Raleway;
+    font-size: 22px;
+    color: #464646;
+}
+
+.imagen__perfil{
+    width: 368px;
+    height: 368px;
+    border-radius: 100%;
+}
+
+.redes__sociales{
+    font-family: Raleway;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    width: 520px;
+    margin-left: 130px;
+    
+}
+
+.redes__sociales li{
+    list-style: none;
+    
+}
+
+.redes__sociales li a{
+    text-decoration: none;
+    color: #464646;
+    
+}
+
+.redes__sociales li a:hover{
+    text-decoration: underline;
+}
