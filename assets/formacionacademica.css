@@ -1,15 +1,19 @@
+
+
 .caja_academia{
     background-color: #EAF2FD;
     margin-top: 88px;
-    height: 581px; 
+    height: auto; 
 }
 
 .formacion_academica{
     display: flex;
-    
+    flex-wrap: wrap;
+    margin-left: 10%;
 }
 
 .formacion_academica__titulo{
+    margin-left: -10px;
     font-size: 32px;
     font-family: Raleway;
     text-align: center;
@@ -18,9 +22,9 @@
 }
 
 .formacion_academica__contenedor{
-    width: 368px;
-    height: 186px;
-    margin-left: 152px;
+    width: 168px;
+    height: 86px;
+    margin-left: 20%;
     padding-top: 50px;
     background: #ffffff;
     margin-right: 100px;
@@ -28,8 +32,8 @@
 
 
 .formacion_academica__imagen{
-    width: 192px;
-    height: 130px;
+    width: 50%;
+    height: 50%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -39,5 +43,9 @@
 .formacion_academica__texto{
     font-family: Raleway;
     color: #464646;
-    margin-left: 152px;
+    margin-left: 25%;
+}
+
+.formacion_academica__texto p{
+    margin-left: 15%;
 }

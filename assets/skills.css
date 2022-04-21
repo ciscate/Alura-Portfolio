@@ -1,0 +1,42 @@
+
+    .skills{
+        font-family: Raleway;
+        color: #464646;
+        margin-left: 10%;
+    }
+    
+    .skills li{
+        list-style: none;
+        margin-right: 60px;
+    }
+    
+    .lista__skill{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .skill{
+        width: 190px;
+        height: 174px;
+        background: #ffffff;
+        padding-left: 24px;
+        margin-bottom: 20px;
+    }
+    
+    .skill__titulo{
+        font-size: 32px;
+        font-family: Raleway;
+        text-align: center;
+        margin-left: -130px;
+        padding-bottom: 32px;
+        padding-top: 32px;
+    }
+    
+    .skill img{
+        padding-top: 40%;
+        width: 20%;
+    }
+    .skill h3{
+        font-size: 16px;
+    }
+    

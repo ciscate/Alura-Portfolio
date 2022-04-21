@@ -1,0 +1,45 @@
+
+
+    .hobbie__titulo{
+        font-size: 32px;
+        font-family: Raleway;
+        text-align: center;
+        margin-left: -130px;
+        padding-bottom: 32px;
+        padding-top: 88px;
+    }
+    
+    .hobbies{
+        font-family: Raleway;
+        color: #464646;
+        margin-left: 10%;
+    }
+    
+    .hobbies li{
+        list-style: none;
+        margin-right: 60px;
+    }
+    
+    .lista__hobbie{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .hobbie{
+        width: 190px;
+        height: 174px;
+        background: #ffffff;
+        padding-left: 24px;
+        margin-bottom: 20px;
+    }
+    
+    
+    .hobbie img{
+        padding-top: 40%;
+        width: 20%;
+    }
+    .hobbie h3{
+        font-size: 16px;
+    }
+
+

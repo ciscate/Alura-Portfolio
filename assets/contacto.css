@@ -1,0 +1,80 @@
+
+
+
+    .contacto_contenedor{
+        display: flex;
+        height: auto;
+        background-color: #EAF2FD;
+        width: auto;
+        justify-content: center;
+    }
+    
+    .contacto_imagen{
+        display: block;
+        height: 493px;
+        width: 364px;
+        margin-top: 130px;
+        margin-left: 10px;
+    }
+    
+    .contenedor_formulario{
+        width: auto;
+        margin-left: 10px;
+        margin-top: 130px;
+    }
+    
+    
+    .contacto_texto h3{
+        font-family: Raleway;
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: -5px;
+        margin-left: 10px;
+        text-align: left;
+        margin-top: -30px;
+    }
+    
+    .contacto_texto p{
+        font-family: Raleway;
+        font-size: 10px;
+        font-weight: 500;
+        margin-left: 10px;
+    }
+    
+    .contacto_formulario input{
+        width:500px ;
+        height: 36px;
+        margin-bottom: 10px;
+        border: none;
+        margin-left: 10px;
+    }
+    
+    
+    .contacto_formulario textarea{
+        width: 500px;
+        resize: none;
+        border: none;
+        margin-left: 10px;
+    }
+    
+    .boton_enviar{
+        width: auto;
+        height: 50px;
+        margin-top: 16px;
+        border: none;
+        font-family: Raleway;
+        color: white;
+        background-color: #2A7AE4;
+        margin-left: 10px;
+
+    }
+    
+    label{
+        display: block;
+        font-family: Raleway;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    
+
+
